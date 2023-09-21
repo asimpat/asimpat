@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Asim Patrick
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Backend Development
-- 💞️ I’m looking to collaborate on open source
+Hi I'm Asim Patrick Okon👋
+
+I'm an enthusiastic backend web developer with strong commitment to developing scalable backend solution to functional softwares.
+
+💡 More About Me
+
+• 🌱Currently diving deep into NodeJs(ExpressJS and NestJs) to develop high performance APIs • 👯I'm enthusiastic about collaborating with teams on back-end projects • 💬 Feel free to ask me anything related to backend development, databases, API design, or server infrastructure. I love sharing knowledge and discussing tech concepts • 😄⚡ Fun fact: In my free time, I like to relax by playing football games🎮, listeninig to music🎶 
+
+🛠 Skills
+
+• Languages: HTML, CSS, JavaScript, Typescript • Framework: ExpressJs, NestJs • Databases: MongoDB, MySQL, Git
 - 📫 How to reach me on twitter @Patoasim
 
 <!---
